@@ -1,0 +1,2 @@
+I opened this file with the terminal! Aint that pretty cool? 
+And now some more text.
